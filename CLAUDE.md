@@ -25,4 +25,4 @@ Everything is in `tictactoe.html`:
 
 ## Git workflow
 
-Commit and push to `origin/main` (https://github.com/a21-lab/ClaudeCodeTest) after every meaningful change.
+After every meaningful unit of work — a new feature, a bug fix, a refactor, or any non-trivial change — commit and push to `origin/main` (https://github.com/a21-lab/ClaudeCodeTest). Do not batch unrelated changes into one commit. Commit messages should be concise and descriptive (imperative mood, present tense). Never leave completed work uncommitted; the remote should always reflect the latest stable state so progress is never lost.
